@@ -1,0 +1,22 @@
+# HGB Corretora de Seguros
+
+> Corretora de seguros, consórcios e planos de saúde na Rua Marechal Olímpio Mourão Filho, 154 - Cidade São Francisco, São Paulo - SP, 05352-080. Seguro de carro, seguro residencial e de responsabilidade civil, consórcio de imóvel e de veículo e plano de saúde. Atendimento pelo WhatsApp (11) 97545-7546.
+
+## Dados do negócio
+
+- Endereço: Rua Marechal Olímpio Mourão Filho, 154 - Cidade São Francisco, São Paulo - SP, 05352-080
+- Horário: segunda a sexta, das 9h às 18h
+- WhatsApp: (11) 97545-7546 (https://wa.me/5511975457546)
+- Instagram: https://www.instagram.com/hgbseguros/
+- Avaliação no Google: 4,8 (37 avaliações, novembro de 2026)
+
+## Serviços
+
+- Seguro de carro, seguro residencial e seguro de responsabilidade civil para empresas
+- Consórcio de imóvel e de veículo, incluindo o Consórcio Data Certa, da Porto
+- Plano de saúde para pessoas, famílias e empresas
+
+## Páginas
+
+- [Página inicial](https://{{DOMINIO}}/)
+- [Política de Privacidade](https://{{DOMINIO}}/politica-de-privacidade.html)
